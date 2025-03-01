@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zinahghul
 - 👀 I’m interested in making fun coding projects.
 - 🌱 I’m currently learning machine learning and web development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: connect with me on LinkedIn! Here is my LinkedIn URL: www.linkedin.com/in/zinah-ghulam 
 - ⚡ Fun fact: I enjoy learning new languages (not just coding languages)
 
